@@ -19,7 +19,7 @@ git config --global user.email
 
 8. Run following commands
     - git init
-    - git remote add origin  https://gitlab.com/gdadlaney/kitas.git
+    - git remote add origin  https://github.com/BeDevops/Recommendation-System.git
     - git pull origin master
     
 9. After changing any file at the end of the day run following commands
